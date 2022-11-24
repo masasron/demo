@@ -1,4 +1,4 @@
-package main
+package demo
 
 func FuncOne() int {
   return 123;
